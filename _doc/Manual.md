@@ -58,7 +58,7 @@ SEOTitle: Hux Blog          # check out docs for more detail
 description: "Cool Blog"    # ...
 
 # SNS settings      
-github_username: huxpro     # modify this account to yours
+github_username:      # modify this account to yours
 weibo_username: huxpro      # the footer woule be auto-updated.
 
 # Build settings

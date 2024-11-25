@@ -1,7 +1,7 @@
 {
-    "name": "hux-blog",
-    "title": "Hux Blog",
-    "author": "Hux <cilew@cilew.com>",
+    "name": "cilew-blog",
+    "title": "Cilew Blog",
+    "author": "Cilew <cilew@cilew.com>",
     "version": "1.8.2",
     "homepage": "http://cilew.github.io",
     "repository": {
