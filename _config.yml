@@ -93,6 +93,7 @@ friends:
   [
     { title: "Chengdu University of Information Technology", href: "https://www.cuit.edu.cn/" },
     { title: "Xuzhou University of Technology", href: "https://www.xzit.edu.cn/" },
-    { title: "China National Knowledge Infrastructure", href: "https://www.cnki.net/" },
+    { title: "CNKI", href: "https://www.cnki.net/" },
     { title: "GitHub", href: "https://www.github.com/" },
+    { title: "Supporter:HuangXuan", href: "https://github.com/Huxpro/huxpro.github.io" },
   ]
